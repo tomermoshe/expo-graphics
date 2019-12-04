@@ -53,8 +53,7 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "expo": "^32.0.0",
-    "expo-gl": "^4.0.0"
+    "expo": "^35.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
